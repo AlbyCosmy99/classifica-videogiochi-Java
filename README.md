@@ -1,4 +1,4 @@
-# 🎮 ClassificaVideogiochi
+# 🎮 Classifica Videogiochi - Java
 
 A simple Java program I originally wrote in 2022 to create a **custom videogame ranking system**.  
 The idea was to compare, one by one, all the games me and my brother have played together, and slowly build a shared **top list of favorite games**.
