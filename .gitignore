@@ -1,1 +1,2 @@
-.class
+# Ignore compiled Java classes
+*.class
