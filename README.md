@@ -88,4 +88,4 @@ The results will be appended to `vincitori.txt`.
 
 ---
 
-👉 This project was mainly a **fun experiment** between two brothers to turn our gaming sessions into a ranking challenge.
+👉 This project was mainly a **fun experiment** between me and my brother to turn our gaming sessions into a ranking challenge.
